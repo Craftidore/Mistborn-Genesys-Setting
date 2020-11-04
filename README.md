@@ -43,3 +43,6 @@ Gear:
 
 
 Special Thanks to [Christopher Ruthenbeck](http://anchor.fm/excess-advantage/) for inspiring me to make a fully fleshed out setting, to Anubis#1722 for advice and editing, and to @Matope#0949 and @Flame112#2512 for ideas and advice.
+
+
+Created using [GMBinder.com](https://www.gmbinder.com/) with this [Genesys GMBinder CSS template](https://www.gmbinder.com/share/-LHIkkVnQ-4SgYYnHmI9)
