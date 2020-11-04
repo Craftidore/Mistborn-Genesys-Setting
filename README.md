@@ -19,9 +19,9 @@ Skills:
 
 Archetypes:
 - [x] Ska archetypes
-> - [x] Plantation Ska
-> - [x] Ska Craftsman
-> - [x] Half Ska (Half Noble)
+  - [x] Plantation Ska
+  - [x] Ska Craftsman
+  - [x] Half Ska (Half Noble)
 - [ ] Noble
 - [ ] Human Archetypes for era 2+
 - [ ] Southern Scadrian
