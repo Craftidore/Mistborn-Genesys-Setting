@@ -16,4 +16,4 @@ Archetypes:
 > * Half Ska (Half Noble)
 
 
-Special Thanks to [Christopher Ruthenbeck](http://anchor.fm/excess-advantage/) for inspiring me to make a fully fleshed out setting and for @Matope#0949 and @Flame112#2512 for ideas and advice.
+Special Thanks to [Christopher Ruthenbeck](http://anchor.fm/excess-advantage/) for inspiring me to make a fully fleshed out setting, to Anubis#1722 for advice and editing, and to @Matope#0949 and @Flame112#2512 for ideas and advice.
