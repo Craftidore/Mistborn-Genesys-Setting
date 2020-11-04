@@ -14,3 +14,6 @@ Archetypes:
 > * Plantation Ska
 > * Ska Craftsman
 > * Half Ska (Half Noble)
+
+
+Special Thanks to [Christopher Ruthenbeck](http://anchor.fm/excess-advantage/) for inspiring me to make a fully fleshed out setting and for @Matope#0949 and @Flame112#2512 for ideas and advice.
