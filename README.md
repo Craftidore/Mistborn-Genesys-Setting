@@ -4,40 +4,40 @@ This is incomplete. It will be updated as additional info is added
 
 
 ### ToDo list
-[ ] Complete ToDo list
+- [ ] Complete ToDo list
 
 Setting Description:
-[x] Brief description of the 4 eras at front of book
-[ ] Detailed description of era 1 
-[ ] Detailed description of era 2 
-[ ] Detailed description of era 3 
-[ ] Detailed description of era 4 
+- [x] Brief description of the 4 eras at front of book
+- [ ] Detailed description of era 1 
+- [ ] Detailed description of era 2 
+- [ ] Detailed description of era 3 
+- [ ] Detailed description of era 4 
 
 Skills:
-[x] New skills (Knowledge Allomancy, Knowledge Feruchemy, and Knowledge Hemalurgy)
-[x] Skills used in the setting, separated by setting era.
+- [x] New skills (Knowledge Allomancy, Knowledge Feruchemy, and Knowledge Hemalurgy)
+- [x] Skills used in the setting, separated by setting era.
 
 Archetypes:
-[x] Ska archetypes
-> [x] Plantation Ska
-> [x] Ska Craftsman
-> [x] Half Ska (Half Noble)
-[ ] Noble
-[ ] Human Archetypes for era 2+
-[ ] Southern Scadrian
-[ ] Koloss
-[ ] Kandra
+- [x] Ska archetypes
+> - [x] Plantation Ska
+> - [x] Ska Craftsman
+> - [x] Half Ska (Half Noble)
+- [ ] Noble
+- [ ] Human Archetypes for era 2+
+- [ ] Southern Scadrian
+- [ ] Koloss
+- [ ] Kandra
 
 Magic:
-[ ] Allomancy
-[ ] Feruchemy
-[ ] Hemalurgy
+- [ ] Allomancy
+- [ ] Feruchemy
+- [ ] Hemalurgy
 
 Gear:
-[ ] Era 1
-[ ] Era 2
-[ ] Era 3 (general idea)
-[ ] Era 4 (vague idea)
+- [ ] Era 1
+- [ ] Era 2
+- [ ] Era 3 (general idea)
+- [ ] Era 4 (vague idea)
 
 
 
