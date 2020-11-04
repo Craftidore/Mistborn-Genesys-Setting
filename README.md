@@ -11,6 +11,6 @@ Skills:
 
 Archetypes:
 * Ska archetypes
-1. Plantation Ska
-2. Ska Craftsman
-3. Half Ska (Half Noble)
+> * Plantation Ska
+> * Ska Craftsman
+> * Half Ska (Half Noble)
