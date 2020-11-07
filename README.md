@@ -1,6 +1,6 @@
 # Mistborn-Genesys-Setting
 The Unofficial Genesys Mistborn Setting. 
-This is incomplete. It will be updated as additional info is added
+This is incomplete. It will be updated as additional info is added.
 
 
 ### ToDo list
@@ -22,8 +22,11 @@ Archetypes:
   - [x] Plantation Skaa
   - [x] City Skaa
   - [x] Skaa Craftsman
-  - [x] Half Skaa (Half Noble)
-- [ ] Noble
+- [x] Noble archetypes
+  - [x] Plantation Noble
+  - [x] Elite Socialite
+  - [x] Conniving Schemer
+- [x] Half Skaa (Half Noble)
 - [ ] Human Archetypes for era 2+
 - [ ] Southern Scadrian
 - [ ] Koloss
