@@ -40,7 +40,11 @@ Gear:
 - [ ] Era 3 (general idea)
 - [ ] Era 4 (vague idea)
 
-
+Links from the Other Resources section of the pdf:
+[RPG Sessions](https://rpgsessions.com)
+[Era 1 Mistborn Character Template on RPG Sessions](https://app.rpgsessions.com/char/ffg-gen/player/5fa5eb30010c2c00117caeb6)
+[Github Link (you're here already)](https://github.com/Craftidore/Mistborn-Genesys-Setting)
+[Fantasy Flight Games forums](https://community.fantasyflightgames.com/topic/312335-genesys-mistborn/)
 
 
 Special Thanks to [Christopher Ruthenbeck](http://anchor.fm/excess-advantage/) for inspiring me to make a fully fleshed out setting, to Anubis#1722 for advice and editing, and to @Matope#0949 and @Flame112#2512 for ideas and advice.
