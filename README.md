@@ -25,7 +25,7 @@ Archetypes:
 - [x] Noble archetypes
   - [x] Plantation Noble
   - [x] Elite Socialite
-  - [x] Conniving Schemer
+  - [x] Schemer
 - [x] Half Skaa (Half Noble)
 - [ ] Human Archetypes for era 2+
 - [ ] Southern Scadrian
