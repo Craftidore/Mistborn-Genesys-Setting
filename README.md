@@ -34,6 +34,8 @@ Archetypes:
 
 Magic:
 - [ ] Allomancy
+  - [x] Allomancy Rules
+  - [ ] Individual Metals
 - [ ] Feruchemy
 - [ ] Hemalurgy
 
@@ -53,6 +55,9 @@ Links from the Other Resources section of the pdf:
 
 [Fantasy Flight Games forums](https://community.fantasyflightgames.com/topic/312335-genesys-mistborn/)
 
+[Manuel Castañón's Artstation (front cover image attribution)](https://www.artstation.com/castaguer)
+
+[Isaac Stewart (Allomancy symbols)](https://isaacstewart.com)
 
 Special Thanks to [Christopher Ruthenbeck](http://anchor.fm/excess-advantage/) for inspiring me to make a fully fleshed out setting, to Anubis#1722 for advice and editing, and to @Matope#0949 and @Flame112#2512 for ideas and advice.
 
