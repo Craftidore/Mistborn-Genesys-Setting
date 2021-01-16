@@ -55,6 +55,8 @@ Links from the Other Resources section of the pdf:
 
 [Fantasy Flight Games forums](https://community.fantasyflightgames.com/topic/312335-genesys-mistborn/)
 
+Since FFG's Forums are closing, I am moving updates [here](https://forum.swrpgcommunity.com/t/mistborn-genesys-setting/102?u=craftidore).
+
 [Manuel Castañón's Artstation (front cover image attribution)](https://www.artstation.com/castaguer)
 
 [Isaac Stewart (Allomancy symbols)](https://isaacstewart.com)
